@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+
+body{
+  font-family: 'Poppins', sans-serif;
+
+}
+.Card-style{
+    padding-top: 120px;
+    padding-left: 170px;
+    padding-bottom: 120px;
+
+    
+}
+
+.custom-bg{
+  
+    object-fit: cover;
+
+}
+
+
+
+.footer-style{
+    height: 100px;
+    background-color: transparent;
+
+    padding-top: 20px;
+    color: #ffffff;
+}
+
+.footer-style > Nav {
+    margin-left: 80px;
+    padding-bottom: 20px;
+    color:#ffffff;
+    text-decoration: none;
+}
+
+.nav-link{
+    color:#ffffff;
+    text-decoration: none;
+
+}
+.brand-style{
+    padding-top: 25px;
+    padding-left: 35px;
+    color:#ffffff;
+}
+
+.body-head{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.body-style{
+    z-index: -2;
+    min-height: 100vh;
+    background-color: #2c0a93;
+    background-attachment: fixed;
+    color: #ffffff;
+}
+
+.header-style{
+    padding-top:380px;
+}
+
+.job-style{
+   padding-top: 100px;
+   min-height: 100vh;
+
+}
+
+.sign-style{
+    min-height: 100vh;
+
+}

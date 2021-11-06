@@ -1,0 +1,9 @@
+/*    /index.html   200
+/api/*  https://jobs.github.com/positions.json/:splat  200
+
+[[redirects]]
+  from = "/search"
+  to = "https://jobs.github.com/positions.json"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
